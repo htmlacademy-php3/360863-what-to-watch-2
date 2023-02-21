@@ -1,3 +1,5 @@
+Наставник: [Владимир Зайцев](https://htmlacademy.ru/profile/id2098497)
+
 # Руководство по работе с проектом
 
 Данный проект создан с помощью [Create React App](https://github.com/facebook/create-react-app).
